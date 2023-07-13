@@ -6,9 +6,10 @@ authors = ["Jova <jjsl> <jjsl@cin.ufpe.br>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.11.3"
+python = "^3.11.3"
 pandas = "^2.0.3"
 ipykernel = "^6.24.0"
+matplotlib = "^3.7.2"
 
 
 [build-system]
